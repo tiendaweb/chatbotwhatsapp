@@ -1,0 +1,682 @@
+[
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDQ4NUFFODMxQzc4ODkwNTg2RAA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "hey there"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724587538,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDMyRkZBRUE2RjU1RkFENTdEQQA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "hey man"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724587908,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDdDQTU1QzRCQjNFRTgyN0ZFMQA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "hey there"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588086,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDlDQTBCNTk3RDBFRThDQUJCRgA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "hey man"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588155,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSOEI3REYxMUY2RjA4MUQ2RDQ5AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "hey there"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588253,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDIyNzg3MDhGN0FCMzUwMTQ3NgA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "hey there"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588273,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "button",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSRDlEQjUzQTc0MzNDQTUyODM1AA==",
+    "msgContext": {
+      "type": "interactive",
+      "interactive": {
+        "type": "button",
+        "body": {
+          "text": "hey thanks for your message please choose below"
+        },
+        "action": {
+          "buttons": [
+            {
+              "type": "reply",
+              "reply": {
+                "id": "1724587706701",
+                "title": "Talk to ai"
+              }
+            },
+            {
+              "type": "reply",
+              "reply": {
+                "id": "1724587710977",
+                "title": "Talk to agent"
+              }
+            },
+            {
+              "type": "reply",
+              "reply": {
+                "id": "1724587718598",
+                "title": "Automate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588274,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDVBMkFCMjBGRTdEN0U4MDc4OAA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Talk to ai"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588288,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING",
+    "context": {
+      "from": "917037300870",
+      "id": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSRDlEQjUzQTc0MzNDQTUyODM1AA=="
+    }
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSQzI2RDQxMzk4QzNFNEM0RkRGAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Hi there! How can I assist you today?"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588290,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMEM2RjVEMzY5RTc4MTczNDZGMwA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "who are you ?"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588300,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDRDQjlGRTBDMTA0NjJFRDU4NgA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "hello ?"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588323,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSNzA5MDkyOTE2NTdDMjM3NjdEAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "I am an IT service bot for Codeyon. I'm here to help you with information about our services, products, or anything else you need. How can I assist you today?"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588325,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDQ5QkI0QzBCQzZDNzY5MzIwRgA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "how can you help me ?"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588353,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSODkzNzU1RDVBRURDMTE4MTRFAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "I can assist you with a variety of tasks, including:\n\n1. **Information about our services**: Descriptions, benefits, and how they can help you.\n2. **Product details**: Specifications and features of our products.\n3. **Guidance and troubleshooting**: Help with common issues or questions.\n4. **Connect you with a human agent**: If you need more personalized assistance.\n\nPlease let me know what you need help with!"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588356,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMEQwRkE0MjYwN0RBOTZFQ0ZGMAA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "please send me product details"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588388,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSRTA2NTJDQTc5OTAwOThDMkM1AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "I can assist you with a variety of tasks, including:\n\n1. **Information about our services**: Descriptions, benefits, and how they can help you.\n2. **Product details**: Specifications and features of our products.\n3. **Guidance and troubleshooting**: Help with common issues or questions.\n4. **Connect you with a human agent**: If you need more personalized assistance.\n\nPlease let me know what you need help with!"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588390,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDQ3MDFBNTcyOEJGQkQ0OUNCRgA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "send product details"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588431,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSRTIxMEQwNTNFNEY3NjEwNDE5AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "This is your product details:\n\nYour product name is: Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops\nYour product price is: 109.95\nProduct description is: Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588433,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDQ3MTkxRDkyMkNDOTY4N0VEQgA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "thanks a lot"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588470,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSM0MwRjg3RkUzOTg5MjRBRDM3AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "You're welcome! If you have any other questions or need further assistance, feel free to ask."
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588472,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDgyRDJFOTk0MjJFNThGMUJBMQA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "transfer chat to agent"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588514,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSOEUxM0YzN0YxOERERTIwRjQzAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "You're welcome! If you have any other questions or need further assistance, feel free to ask."
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588516,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDBCMUI4MDk4RjlFRDk5OEREOQA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "transfer chat to the agent please"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588596,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSMjZDNDM1RjA0MkZDNzY5Qzg5AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "hey i am agent"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588632,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING",
+    "agent": "john@agent.com"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDAyQUI1NUI5N0UxQTZDNEI1MQA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "transfer chat to the agent please"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588885,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSQzE2N0RBNTkwRjkyNzhBM0EwAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "hey "
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588909,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDVGN0JCMDBCRkI1NENCQjM4NQA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "hi"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588913,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSMjY4OTI5NEU5RTUyREJFMkM4AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Hello! How can I assist you today? If you need to speak with an agent, I can transfer you. Just let me know!"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588914,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDM0NzcwNzc4RTU2MEJGRDhCQwA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "transfer chat to the agent please"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588923,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSQjFBNzVBRDQ4QkQ2RDlDMEQyAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Hello! How can I assist you today?"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588924,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMDYxQTg5NUNGRUYzMDAzNjRDOAA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "I want to talk to the agent please transfer chat to agent"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588946,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMEJFOTdDOTUxMDFEMTdGMDY0MgA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "I want to talk to the agent please transfer chat to agent"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588977,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSQTYwNzQ1MDk5MEU2RTVEOUFEAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "You chat has been transferred to the agent. Please wait an available agent will reply soon."
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724588978,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAEhgWM0VCMEZGQjUyNjc3Nzg5QzFFMTM4NQA=",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "send product details"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724589221,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSMTRFRjA5OTAzRUI4RjU1MTU2AA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "This is your product details:\n\nYour product name is: Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops\nYour product price is: 109.95\nProduct description is: Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724589224,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "delivered",
+    "star": false,
+    "route": "OUTGOING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE4NDMwMDg4MzAwFQIAERgSRjFFRUI5QjJFMkU4NzM1NUIxAA==",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "we are fetching it please wait"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1724589224,
+    "senderName": "codeyon.com",
+    "senderMobile": "918430088300",
+    "status": "sent",
+    "star": false,
+    "route": "OUTGOING"
+  }
+]

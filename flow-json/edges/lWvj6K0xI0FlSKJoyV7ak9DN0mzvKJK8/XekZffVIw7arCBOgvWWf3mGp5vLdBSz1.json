@@ -1,0 +1,51 @@
+[
+  {
+    "source": "1724587674716",
+    "sourceHandle": "{{OTHER_MSG}}",
+    "target": "1724587687147",
+    "targetHandle": "1724587687147_target",
+    "id": "reactflow__edge-1724587674716{{OTHER_MSG}}-17245876871471724587687147_target"
+  },
+  {
+    "source": "1724587687147",
+    "sourceHandle": "Talk to ai",
+    "target": "1724587737263",
+    "targetHandle": "1724587737263_target",
+    "id": "reactflow__edge-1724587687147Talk to ai-17245877372631724587737263_target"
+  },
+  {
+    "source": "1724587737263",
+    "sourceHandle": "dOTfw",
+    "target": "1724587865307",
+    "targetHandle": "1724587865307_target",
+    "id": "reactflow__edge-1724587737263dOTfw-17245878653071724587865307_target"
+  },
+  {
+    "source": "1724587737263",
+    "sourceHandle": "zj51w",
+    "target": "1724587893089",
+    "targetHandle": "1724587893089_target",
+    "id": "reactflow__edge-1724587737263zj51w-17245878930891724587893089_target"
+  },
+  {
+    "source": "1724587893089",
+    "sourceHandle": null,
+    "target": "1724587962960",
+    "targetHandle": "1724587962960_target",
+    "id": "reactflow__edge-1724587893089-17245879629601724587962960_target"
+  },
+  {
+    "source": "1724587737263",
+    "sourceHandle": "dOTfw",
+    "target": "1724588546407",
+    "targetHandle": "1724588546407_target",
+    "id": "reactflow__edge-1724587737263dOTfw-17245885464071724588546407_target"
+  },
+  {
+    "source": "1724587737263",
+    "sourceHandle": "zj51w",
+    "target": "1724589032139",
+    "targetHandle": "1724589032139_target",
+    "id": "reactflow__edge-1724587737263zj51w-17245890321391724589032139_target"
+  }
+]
